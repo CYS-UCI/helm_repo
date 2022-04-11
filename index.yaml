@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx-controler:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-04-11T10:31:26.223373-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 0000cc2b033ab3e3764da363406b75d0a1da86584d5d5b7082fc2f9a78e7f60c
+    name: nginx-controler
+    urls:
+    - charts/nginx-controler-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-11T10:31:26.222982-05:00"
